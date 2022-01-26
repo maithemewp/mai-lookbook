@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '0ebaffc074d1256899873adef7ff59de6f0d27ee',
+    'reference' => 'e937dffbc0a20ab936d0359c86fd244b8dccd9c7',
     'name' => 'maithemewp/mai-lookbook',
   ),
   'versions' => 
@@ -26,7 +26,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '1b637076d114af7762855493b9bac009a6272d5c',
+      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
     ),
     'maithemewp/mai-lookbook' => 
     array (
@@ -35,7 +35,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '0ebaffc074d1256899873adef7ff59de6f0d27ee',
+      'reference' => 'e937dffbc0a20ab936d0359c86fd244b8dccd9c7',
     ),
   ),
 );
