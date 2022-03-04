@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'e937dffbc0a20ab936d0359c86fd244b8dccd9c7',
+    'reference' => 'ff1b1acca39e00bee4fca25eb31ae5d9941578a2',
     'name' => 'maithemewp/mai-lookbook',
   ),
   'versions' => 
@@ -52,7 +52,7 @@ private static $installed = array (
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
+      'reference' => '399fec687a9459b774c1bd1c44a38a806dfa052f',
     ),
     'maithemewp/mai-lookbook' => 
     array (
@@ -61,7 +61,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'e937dffbc0a20ab936d0359c86fd244b8dccd9c7',
+      'reference' => 'ff1b1acca39e00bee4fca25eb31ae5d9941578a2',
     ),
   ),
 );
